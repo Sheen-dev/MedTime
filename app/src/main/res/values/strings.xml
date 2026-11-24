@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MedTime</string>
+    <!-- The small version text on the pages. Change it here when the version changes. -->
+    <string name="app_version">Version 1.0</string>
+</resources>
